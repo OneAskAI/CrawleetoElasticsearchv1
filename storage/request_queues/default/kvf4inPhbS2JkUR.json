@@ -1,0 +1,9 @@
+{
+	"id": "kvf4inPhbS2JkUR",
+	"json": "{\"id\":\"kvf4inPhbS2JkUR\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/2021/1987_20210929.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/2021/1987_20210929.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477599946,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/2021/1987_20210929.html",
+	"url": "https://www.ntu.edu.tw/english/spotlight/2021/1987_20210929.html"
+}

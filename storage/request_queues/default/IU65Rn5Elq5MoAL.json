@@ -1,0 +1,9 @@
+{
+	"id": "IU65Rn5Elq5MoAL",
+	"json": "{\"id\":\"IU65Rn5Elq5MoAL\",\"url\":\"https://www.ntu.edu.tw/english/about/NTU.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/about/NTU.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/NTU.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:46:28.698Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/about/NTU.html",
+	"url": "https://www.ntu.edu.tw/english/about/NTU.html"
+}

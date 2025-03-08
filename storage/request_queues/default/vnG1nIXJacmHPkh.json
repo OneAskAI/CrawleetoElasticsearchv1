@@ -1,0 +1,9 @@
+{
+	"id": "vnG1nIXJacmHPkh",
+	"json": "{\"id\":\"vnG1nIXJacmHPkh\",\"url\":\"https://www.ntu.edu.tw/english/about/doc/song.txt\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/doc/song.txt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477589363,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/about/doc/song.txt",
+	"url": "https://www.ntu.edu.tw/english/about/doc/song.txt"
+}

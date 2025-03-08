@@ -1,0 +1,9 @@
+{
+	"id": "Fh27K1o7q445Hsr",
+	"json": "{\"id\":\"Fh27K1o7q445Hsr\",\"url\":\"https://www.ntu.edu.tw/english/about/doc/song.mp3\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/doc/song.mp3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477589357,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/about/doc/song.mp3",
+	"url": "https://www.ntu.edu.tw/english/about/doc/song.mp3"
+}

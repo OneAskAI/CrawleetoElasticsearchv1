@@ -1,0 +1,9 @@
+{
+	"id": "S7R1CsIHJZ1Rt3l",
+	"json": "{\"id\":\"S7R1CsIHJZ1Rt3l\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/2021/1959_20210609.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/2021/1959_20210609.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477599961,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/2021/1959_20210609.html",
+	"url": "https://www.ntu.edu.tw/english/spotlight/2021/1959_20210609.html"
+}

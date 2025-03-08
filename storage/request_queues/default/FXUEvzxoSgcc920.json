@@ -1,0 +1,9 @@
+{
+	"id": "FXUEvzxoSgcc920",
+	"json": "{\"id\":\"FXUEvzxoSgcc920\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/2021/1986_20210922.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/2021/1986_20210922.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477599947,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/2021/1986_20210922.html",
+	"url": "https://www.ntu.edu.tw/english/spotlight/2021/1986_20210922.html"
+}

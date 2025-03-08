@@ -1,0 +1,9 @@
+{
+	"id": "tR46AXt335kdrGA",
+	"json": "{\"id\":\"tR46AXt335kdrGA\",\"url\":\"https://www.ntu.edu.tw/spotlight/2016/838_20160608.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2016/838_20160608.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477578476,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2016/838_20160608.html",
+	"url": "https://www.ntu.edu.tw/spotlight/2016/838_20160608.html"
+}

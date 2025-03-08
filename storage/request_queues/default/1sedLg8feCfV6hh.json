@@ -1,0 +1,9 @@
+{
+	"id": "1sedLg8feCfV6hh",
+	"json": "{\"id\":\"1sedLg8feCfV6hh\",\"url\":\"https://www.ntu.edu.tw/research/researchdep.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/research/researchdep.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/research/researchdep.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:44:42.460Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/research/researchdep.html",
+	"url": "https://www.ntu.edu.tw/research/researchdep.html"
+}

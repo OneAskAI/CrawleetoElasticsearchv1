@@ -1,0 +1,9 @@
+{
+	"id": "U41kkcAo8B4bTKT",
+	"json": "{\"id\":\"U41kkcAo8B4bTKT\",\"url\":\"https://www.ntu.edu.tw/images/about/emblem_2.png\",\"loadedUrl\":\"https://www.ntu.edu.tw/images/about/emblem_2.png\",\"uniqueKey\":\"https://www.ntu.edu.tw/images/about/emblem_2.png\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:47:05.454Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/images/about/emblem_2.png",
+	"url": "https://www.ntu.edu.tw/images/about/emblem_2.png"
+}

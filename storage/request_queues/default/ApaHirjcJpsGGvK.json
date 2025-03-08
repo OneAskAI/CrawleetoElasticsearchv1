@@ -1,0 +1,9 @@
+{
+	"id": "ApaHirjcJpsGGvK",
+	"json": "{\"id\":\"ApaHirjcJpsGGvK\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/2015/668_20151111.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/2015/668_20151111.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477602076,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/2015/668_20151111.html",
+	"url": "https://www.ntu.edu.tw/english/spotlight/2015/668_20151111.html"
+}

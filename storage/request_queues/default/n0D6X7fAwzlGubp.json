@@ -1,0 +1,9 @@
+{
+	"id": "n0D6X7fAwzlGubp",
+	"json": "{\"id\":\"n0D6X7fAwzlGubp\",\"url\":\"https://www.ntu.edu.tw/english/sitemap.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/sitemap.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/sitemap.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:44:50.276Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/sitemap.html",
+	"url": "https://www.ntu.edu.tw/english/sitemap.html"
+}

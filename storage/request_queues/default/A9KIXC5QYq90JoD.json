@@ -1,0 +1,9 @@
+{
+	"id": "A9KIXC5QYq90JoD",
+	"json": "{\"id\":\"A9KIXC5QYq90JoD\",\"url\":\"https://www.ntu.edu.tw/spotlight/2024/2309_20241016.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/spotlight/2024/2309_20241016.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2024/2309_20241016.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.$$eval: Target page, context or browser has been closed\\n    at extractUrlsFromPage (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:479:30)\\n    at browserCrawlerEnqueueLinks (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:464:24)\\n    at crawlingContext.enqueueLinks (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:313:20)\\n    at async PlaywrightCrawler.requestHandler (/Users/fermi/Desktop/oneaskaitest/node.js:89:9)\\n    at async wrap (/Users/fermi/Desktop/oneaskaitest/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1741477656801,
+	"retryCount": 1,
+	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2024/2309_20241016.html",
+	"url": "https://www.ntu.edu.tw/spotlight/2024/2309_20241016.html"
+}

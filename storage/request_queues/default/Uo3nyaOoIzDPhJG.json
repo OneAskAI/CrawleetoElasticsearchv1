@@ -1,0 +1,9 @@
+{
+	"id": "Uo3nyaOoIzDPhJG",
+	"json": "{\"id\":\"Uo3nyaOoIzDPhJG\",\"url\":\"https://www.ntu.edu.tw/facultyservices.html#personnelservice02\",\"loadedUrl\":\"https://www.ntu.edu.tw/facultyservices.html#personnelservice02\",\"uniqueKey\":\"https://www.ntu.edu.tw/facultyservices.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:45:58.396Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/facultyservices.html",
+	"url": "https://www.ntu.edu.tw/facultyservices.html#personnelservice02"
+}

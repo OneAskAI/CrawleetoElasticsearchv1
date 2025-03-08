@@ -1,0 +1,9 @@
+{
+	"id": "TUZEJdJLAcBu6w0",
+	"json": "{\"id\":\"TUZEJdJLAcBu6w0\",\"url\":\"https://www.ntu.edu.tw/spotlight/2021/2023_20211229_5.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2021/2023_20211229_5.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477641776,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2021/2023_20211229_5.jpg",
+	"url": "https://www.ntu.edu.tw/spotlight/2021/2023_20211229_5.jpg"
+}

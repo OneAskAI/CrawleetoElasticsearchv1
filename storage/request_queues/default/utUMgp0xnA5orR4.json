@@ -1,0 +1,9 @@
+{
+	"id": "utUMgp0xnA5orR4",
+	"json": "{\"id\":\"utUMgp0xnA5orR4\",\"url\":\"https://www.ntu.edu.tw/english/about/director.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/about/director.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/director.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:46:26.328Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/about/director.html",
+	"url": "https://www.ntu.edu.tw/english/about/director.html"
+}

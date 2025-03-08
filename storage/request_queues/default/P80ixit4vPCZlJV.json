@@ -1,0 +1,9 @@
+{
+	"id": "P80ixit4vPCZlJV",
+	"json": "{\"id\":\"P80ixit4vPCZlJV\",\"url\":\"https://www.ntu.edu.tw/spotlight/2024/2324_20241115_6.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2024/2324_20241115_6.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477644098,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2024/2324_20241115_6.jpg",
+	"url": "https://www.ntu.edu.tw/spotlight/2024/2324_20241115_6.jpg"
+}

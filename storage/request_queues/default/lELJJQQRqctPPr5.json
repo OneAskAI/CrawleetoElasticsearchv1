@@ -1,0 +1,9 @@
+{
+	"id": "lELJJQQRqctPPr5",
+	"json": "{\"id\":\"lELJJQQRqctPPr5\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/2015/475_20150330.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/2015/475_20150330.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477602129,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/2015/475_20150330.html",
+	"url": "https://www.ntu.edu.tw/english/spotlight/2015/475_20150330.html"
+}

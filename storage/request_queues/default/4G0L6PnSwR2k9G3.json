@@ -1,0 +1,9 @@
+{
+	"id": "4G0L6PnSwR2k9G3",
+	"json": "{\"id\":\"4G0L6PnSwR2k9G3\",\"url\":\"https://www.ntu.edu.tw/spotlight/2016/827_20160526.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2016/827_20160526.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477578484,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2016/827_20160526.html",
+	"url": "https://www.ntu.edu.tw/spotlight/2016/827_20160526.html"
+}

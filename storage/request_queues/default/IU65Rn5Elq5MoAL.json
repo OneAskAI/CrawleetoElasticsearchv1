@@ -1,0 +1,9 @@
+{
+	"id": "IU65Rn5Elq5MoAL",
+	"json": "{\"id\":\"IU65Rn5Elq5MoAL\",\"url\":\"https://www.ntu.edu.tw/english/about/NTU.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/NTU.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477126003,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/about/NTU.html",
+	"url": "https://www.ntu.edu.tw/english/about/NTU.html"
+}

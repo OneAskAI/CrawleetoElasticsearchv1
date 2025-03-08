@@ -1,0 +1,9 @@
+{
+	"id": "3ipinHhJSMgrdsK",
+	"json": "{\"id\":\"3ipinHhJSMgrdsK\",\"url\":\"https://www.ntu.edu.tw/academics/academics_list.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/academics/academics_list.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/academics/academics_list.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:38:59.601Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/academics/academics_list.html",
+	"url": "https://www.ntu.edu.tw/academics/academics_list.html"
+}

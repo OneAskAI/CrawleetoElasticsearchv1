@@ -1,0 +1,9 @@
+{
+	"id": "vKycrfJDtC1V5VT",
+	"json": "{\"id\":\"vKycrfJDtC1V5VT\",\"url\":\"https://www.ntu.edu.tw/english/about/doc/statement_waterresource_eng20240611.pdf\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/doc/statement_waterresource_eng20240611.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477128782,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/about/doc/statement_waterresource_eng20240611.pdf",
+	"url": "https://www.ntu.edu.tw/english/about/doc/statement_waterresource_eng20240611.pdf"
+}

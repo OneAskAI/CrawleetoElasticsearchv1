@@ -1,0 +1,9 @@
+{
+	"id": "aOYbzt6STdkltfB",
+	"json": "{\"id\":\"aOYbzt6STdkltfB\",\"url\":\"https://www.ntu.edu.tw/images/about/motto03.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/images/about/motto03.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477127476,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/images/about/motto03.jpg",
+	"url": "https://www.ntu.edu.tw/images/about/motto03.jpg"
+}

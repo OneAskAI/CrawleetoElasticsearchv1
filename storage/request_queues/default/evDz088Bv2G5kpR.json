@@ -1,0 +1,9 @@
+{
+	"id": "evDz088Bv2G5kpR",
+	"json": "{\"id\":\"evDz088Bv2G5kpR\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/spotlight2021.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/spotlight2021.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477133811,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/spotlight2021.html",
+	"url": "https://www.ntu.edu.tw/english/spotlight/spotlight2021.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "MiauD3MZw4lvE83",
+	"json": "{\"id\":\"MiauD3MZw4lvE83\",\"url\":\"https://www.ntu.edu.tw/english/about/vision.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/vision.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477126006,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/about/vision.html",
+	"url": "https://www.ntu.edu.tw/english/about/vision.html"
+}

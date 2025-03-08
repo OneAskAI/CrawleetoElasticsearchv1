@@ -1,0 +1,9 @@
+{
+	"id": "mbLTg9l8g8cPX0J",
+	"json": "{\"id\":\"mbLTg9l8g8cPX0J\",\"url\":\"https://www.ntu.edu.tw/about/vision.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/about/vision.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/vision.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:38:48.506Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/about/vision.html",
+	"url": "https://www.ntu.edu.tw/about/vision.html"
+}

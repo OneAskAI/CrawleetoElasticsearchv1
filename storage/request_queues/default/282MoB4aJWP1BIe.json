@@ -1,0 +1,9 @@
+{
+	"id": "282MoB4aJWP1BIe",
+	"json": "{\"id\":\"282MoB4aJWP1BIe\",\"url\":\"https://www.ntu.edu.tw/about/memorabilia.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/about/memorabilia.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/memorabilia.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:38:54.930Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/about/memorabilia.html",
+	"url": "https://www.ntu.edu.tw/about/memorabilia.html"
+}

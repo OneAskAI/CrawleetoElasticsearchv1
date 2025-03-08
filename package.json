@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.17.1",
+    "crawlee": "^3.13.0",
+    "dotenv": "^16.4.7",
+    "playwright": "^1.51.0"
+  },
+  "name": "oneaskaitest",
+  "version": "1.0.0",
+  "main": "node.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

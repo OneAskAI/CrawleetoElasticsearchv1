@@ -1,0 +1,9 @@
+{
+	"id": "ELxol1zsDoqfMol",
+	"json": "{\"id\":\"ELxol1zsDoqfMol\",\"url\":\"https://www.ntu.edu.tw/about/doc/song.txt\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/doc/song.txt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477127742,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/about/doc/song.txt",
+	"url": "https://www.ntu.edu.tw/about/doc/song.txt"
+}

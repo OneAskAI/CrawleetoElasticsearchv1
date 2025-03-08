@@ -1,0 +1,52 @@
+{
+  "requestsFinished": 60,
+  "requestsFailed": 4,
+  "requestsRetries": 4,
+  "requestsFailedPerMinute": 3,
+  "requestsFinishedPerMinute": 60,
+  "requestMinDurationMillis": 860,
+  "requestMaxDurationMillis": 13160,
+  "requestTotalFailedDurationMillis": 5489,
+  "requestTotalFinishedDurationMillis": 128924,
+  "crawlerStartedAt": "2025-03-08T23:38:16.350Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2025-03-08T23:39:16.349Z",
+  "crawlerRuntimeMillis": 60202,
+  "crawlerLastStartTimestamp": 1741477096147,
+  "requestRetryHistogram": [
+    60,
+    null,
+    null,
+    4
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 1372,
+  "requestAvgFinishedDurationMillis": 2149,
+  "requestTotalDurationMillis": 134413,
+  "requestsTotal": 64,
+  "requestsWithStatusCode": {
+    "200": 60
+  },
+  "errors": {
+    "/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_ABORTED at _": {
+            "count": 4
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_ABORTED at _": {
+            "count": 62
+          }
+        }
+      }
+    }
+  }
+}

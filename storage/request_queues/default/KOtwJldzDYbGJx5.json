@@ -1,0 +1,9 @@
+{
+	"id": "KOtwJldzDYbGJx5",
+	"json": "{\"id\":\"KOtwJldzDYbGJx5\",\"url\":\"https://www.ntu.edu.tw/campus/language.html#languagech\",\"loadedUrl\":\"https://www.ntu.edu.tw/campus/language.html#languagech\",\"uniqueKey\":\"https://www.ntu.edu.tw/campus/language.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:39:43.111Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/campus/language.html",
+	"url": "https://www.ntu.edu.tw/campus/language.html#languagech"
+}

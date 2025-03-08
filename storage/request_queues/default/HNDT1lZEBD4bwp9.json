@@ -1,0 +1,9 @@
+{
+	"id": "HNDT1lZEBD4bwp9",
+	"json": "{\"id\":\"HNDT1lZEBD4bwp9\",\"url\":\"https://www.ntu.edu.tw/images/about/letterhead.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/images/about/letterhead.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477121924,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/images/about/letterhead.jpg",
+	"url": "https://www.ntu.edu.tw/images/about/letterhead.jpg"
+}

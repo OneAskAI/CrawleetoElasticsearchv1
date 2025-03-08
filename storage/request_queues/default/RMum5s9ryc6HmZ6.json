@@ -1,0 +1,9 @@
+{
+	"id": "RMum5s9ryc6HmZ6",
+	"json": "{\"id\":\"RMum5s9ryc6HmZ6\",\"url\":\"https://www.ntu.edu.tw/academics/academics.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/academics/academics.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/academics/academics.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:38:34.361Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/academics/academics.html",
+	"url": "https://www.ntu.edu.tw/academics/academics.html"
+}

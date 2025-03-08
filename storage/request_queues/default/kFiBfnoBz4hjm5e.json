@@ -1,0 +1,9 @@
+{
+	"id": "kFiBfnoBz4hjm5e",
+	"json": "{\"id\":\"kFiBfnoBz4hjm5e\",\"url\":\"https://www.ntu.edu.tw/images/about/Businesscard.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/images/about/Businesscard.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477121923,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/images/about/Businesscard.jpg",
+	"url": "https://www.ntu.edu.tw/images/about/Businesscard.jpg"
+}

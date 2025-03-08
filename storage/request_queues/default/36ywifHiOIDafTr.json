@@ -1,0 +1,9 @@
+{
+	"id": "36ywifHiOIDafTr",
+	"json": "{\"id\":\"36ywifHiOIDafTr\",\"url\":\"https://www.ntu.edu.tw/english/about/doc/statement_workplace_eng20231212.pdf\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/doc/statement_workplace_eng20231212.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741477128781,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/about/doc/statement_workplace_eng20231212.pdf",
+	"url": "https://www.ntu.edu.tw/english/about/doc/statement_workplace_eng20231212.pdf"
+}

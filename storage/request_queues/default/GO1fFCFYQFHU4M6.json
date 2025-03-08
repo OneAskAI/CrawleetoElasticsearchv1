@@ -1,0 +1,9 @@
+{
+	"id": "GO1fFCFYQFHU4M6",
+	"json": "{\"id\":\"GO1fFCFYQFHU4M6\",\"url\":\"https://www.ntu.edu.tw/english/student.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/student.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/student.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:38:50.552Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/english/student.html",
+	"url": "https://www.ntu.edu.tw/english/student.html"
+}

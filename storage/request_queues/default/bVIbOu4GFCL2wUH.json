@@ -1,0 +1,9 @@
+{
+	"id": "bVIbOu4GFCL2wUH",
+	"json": "{\"id\":\"bVIbOu4GFCL2wUH\",\"url\":\"https://www.ntu.edu.tw/faculty.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/faculty.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/faculty.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:38:37.051Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ntu.edu.tw/faculty.html",
+	"url": "https://www.ntu.edu.tw/faculty.html"
+}

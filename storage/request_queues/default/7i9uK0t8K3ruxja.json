@@ -1,9 +1,0 @@
-{
-	"id": "7i9uK0t8K3ruxja",
-	"json": "{\"id\":\"7i9uK0t8K3ruxja\",\"url\":\"https://www.ntu.edu.tw/infofor.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/infofor.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/infofor.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:45:56.659Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/infofor.html",
-	"url": "https://www.ntu.edu.tw/infofor.html"
-}

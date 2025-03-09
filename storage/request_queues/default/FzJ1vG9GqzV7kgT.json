@@ -1,9 +1,0 @@
-{
-	"id": "FzJ1vG9GqzV7kgT",
-	"json": "{\"id\":\"FzJ1vG9GqzV7kgT\",\"url\":\"https://www.ntu.edu.tw/english/research/researchdep.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/research/researchdep.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/research/researchdep.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:44:56.326Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/research/researchdep.html",
-	"url": "https://www.ntu.edu.tw/english/research/researchdep.html"
-}

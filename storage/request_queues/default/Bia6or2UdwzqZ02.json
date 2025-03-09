@@ -1,9 +1,0 @@
-{
-	"id": "Bia6or2UdwzqZ02",
-	"json": "{\"id\":\"Bia6or2UdwzqZ02\",\"url\":\"https://www.ntu.edu.tw/english/administration/administration_list.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/administration/administration_list.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/administration/administration_list.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:46:26.338Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/administration/administration_list.html",
-	"url": "https://www.ntu.edu.tw/english/administration/administration_list.html"
-}

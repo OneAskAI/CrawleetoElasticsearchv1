@@ -1,6 +1,6 @@
 {
 	"id": "q1aMLQZKvKdTPsx",
-	"json": "{\"id\":\"q1aMLQZKvKdTPsx\",\"url\":\"https://www.ntu.edu.tw/spotlight/2024/2330_20241127.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/spotlight/2024/2330_20241127.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2024/2330_20241127.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:47:18.375Z\"}",
+	"json": "{\"id\":\"q1aMLQZKvKdTPsx\",\"url\":\"https://www.ntu.edu.tw/spotlight/2024/2330_20241127.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/spotlight/2024/2330_20241127.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2024/2330_20241127.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:58:53.985Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,9 +1,0 @@
-{
-	"id": "jFgMPceNI2zTtV7",
-	"json": "{\"id\":\"jFgMPceNI2zTtV7\",\"url\":\"https://www.ntu.edu.tw/english/about/statistics.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/about/statistics.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/statistics.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:44:54.220Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/about/statistics.html",
-	"url": "https://www.ntu.edu.tw/english/about/statistics.html"
-}

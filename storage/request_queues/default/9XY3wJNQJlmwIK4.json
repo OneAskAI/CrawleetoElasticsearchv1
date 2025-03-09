@@ -1,6 +1,6 @@
 {
 	"id": "9XY3wJNQJlmwIK4",
-	"json": "{\"id\":\"9XY3wJNQJlmwIK4\",\"url\":\"https://www.ntu.edu.tw/images/about/envelope12k.jpg\",\"loadedUrl\":\"https://www.ntu.edu.tw/images/about/envelope12k.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/images/about/envelope12k.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:46:09.134Z\"}",
+	"json": "{\"id\":\"9XY3wJNQJlmwIK4\",\"url\":\"https://www.ntu.edu.tw/images/about/envelope12k.jpg\",\"loadedUrl\":\"https://www.ntu.edu.tw/images/about/envelope12k.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/images/about/envelope12k.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:57:53.988Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

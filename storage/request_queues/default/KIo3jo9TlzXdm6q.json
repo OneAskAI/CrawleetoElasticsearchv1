@@ -1,9 +1,0 @@
-{
-	"id": "KIo3jo9TlzXdm6q",
-	"json": "{\"id\":\"KIo3jo9TlzXdm6q\",\"url\":\"https://www.ntu.edu.tw/english/about/history.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/about/history.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/history.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:44:53.123Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/about/history.html",
-	"url": "https://www.ntu.edu.tw/english/about/history.html"
-}

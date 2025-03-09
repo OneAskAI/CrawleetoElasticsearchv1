@@ -1,8 +1,8 @@
 {
 	"id": "IqdCzZMToO1jNAA",
-	"json": "{\"id\":\"IqdCzZMToO1jNAA\",\"url\":\"https://www.ntu.edu.tw/spotlight/2023/2222_20231220.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2023/2222_20231220.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"json": "{\"id\":\"IqdCzZMToO1jNAA\",\"url\":\"https://www.ntu.edu.tw/spotlight/2023/2222_20231220.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/spotlight/2023/2222_20231220.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2023/2222_20231220.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:59:55.473Z\"}",
 	"method": "GET",
-	"orderNo": 1741477572548,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2023/2222_20231220.html",
 	"url": "https://www.ntu.edu.tw/spotlight/2023/2222_20231220.html"

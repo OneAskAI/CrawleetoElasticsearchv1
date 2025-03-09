@@ -1,9 +1,0 @@
-{
-	"id": "byOGSXqPp0fqVf0",
-	"json": "{\"id\":\"byOGSXqPp0fqVf0\",\"url\":\"https://www.ntu.edu.tw/english/about/emblem.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/about/emblem.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/emblem.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:46:29.005Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/about/emblem.html",
-	"url": "https://www.ntu.edu.tw/english/about/emblem.html"
-}

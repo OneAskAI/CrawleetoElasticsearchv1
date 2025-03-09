@@ -1,9 +1,0 @@
-{
-	"id": "UV5QkcUbSG85gZF",
-	"json": "{\"id\":\"UV5QkcUbSG85gZF\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/2021/1978_20210825.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/2021/1978_20210825.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1741477599949,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/2021/1978_20210825.html",
-	"url": "https://www.ntu.edu.tw/english/spotlight/2021/1978_20210825.html"
-}

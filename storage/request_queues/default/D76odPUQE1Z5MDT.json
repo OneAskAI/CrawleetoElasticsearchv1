@@ -1,9 +1,9 @@
 {
 	"id": "D76odPUQE1Z5MDT",
-	"json": "{\"id\":\"D76odPUQE1Z5MDT\",\"url\":\"https://www.ntu.edu.tw/spotlight/2021/2005_20211118.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2021/2005_20211118.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.goto: net::ERR_ABORTED at https://www.ntu.edu.tw/spotlight/2021/2005_20211118.html\\nCall log:\\n\\u001b[2m  - navigating to \\\"https://www.ntu.edu.tw/spotlight/2021/2005_20211118.html\\\", waiting until \\\"load\\\"\\u001b[22m\\n\\n    at gotoExtended (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17)\\n    at PlaywrightCrawler._navigationHandler (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/playwright-crawler.js:117:52)\\n    at PlaywrightCrawler._handleNavigation (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:331:52)\\n    at async PlaywrightCrawler._runRequestHandler (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:260:13)\\n    at async PlaywrightCrawler._runRequestHandler (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/playwright-crawler.js:114:9)\\n    at async wrap (/Users/fermi/Desktop/oneaskaitest/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
+	"json": "{\"id\":\"D76odPUQE1Z5MDT\",\"url\":\"https://www.ntu.edu.tw/spotlight/2021/2005_20211118.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2021/2005_20211118.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
 	"method": "GET",
-	"orderNo": 1741477656769,
-	"retryCount": 1,
+	"orderNo": 1741478257477,
+	"retryCount": 0,
 	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2021/2005_20211118.html",
 	"url": "https://www.ntu.edu.tw/spotlight/2021/2005_20211118.html"
 }

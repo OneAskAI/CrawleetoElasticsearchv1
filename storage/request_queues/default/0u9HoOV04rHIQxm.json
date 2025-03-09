@@ -1,9 +1,0 @@
-{
-	"id": "0u9HoOV04rHIQxm",
-	"json": "{\"id\":\"0u9HoOV04rHIQxm\",\"url\":\"https://www.ntu.edu.tw/about/doc/2008.mp3\",\"loadedUrl\":\"https://www.ntu.edu.tw/about/doc/2008.mp3\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/doc/2008.mp3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:47:15.229Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/about/doc/2008.mp3",
-	"url": "https://www.ntu.edu.tw/about/doc/2008.mp3"
-}

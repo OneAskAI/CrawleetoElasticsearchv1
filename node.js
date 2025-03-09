@@ -1,27 +1,25 @@
 /*
-NTU-Crawlee-ES-Integration with ENV-based Elasticsearch configuration and content cleaning
+NTU-Crawlee-ES-Integration with ENV-based Elasticsearch configuration and extended content cleaning
 
-This updated code:
+This version:
 1. Uses Crawlee (PlaywrightCrawler) to crawl https://www.ntu.edu.tw/
-2. Removes inline scripts, styles, and other undesired text (like Alpine.js code)
-3. Indexes the cleaned text into Elasticsearch.
-4. Reads the ES endpoint and API key from your .env file.
+2. Removes a broad set of non-essential elements (scripts, styles, iframes, nav, header, footer, etc.)
+3. Indexes the minimal textual content of each page into Elasticsearch
+4. Reads ES endpoint and API key from a .env file
 
-Instructions:
-1. Have Node.js installed.
-2. Run: npm install crawlee @elastic/elasticsearch dotenv
-3. Create a .env file with:
+Usage:
+1. npm install crawlee @elastic/elasticsearch dotenv
+2. Create a .env with:
    ES_ENDPOINT="<your-elasticsearch-endpoint>"
    ES_API_KEY="<your-elasticsearch-api-key>"
-4. Save this file (e.g., ntu-crawler.js)
-5. Run with: node ntu-crawler.js
+3. Save as ntu-crawler.js, run: node ntu-crawler.js
 */
 
 import 'dotenv/config';
 import { PlaywrightCrawler } from 'crawlee';
 import { Client } from '@elastic/elasticsearch';
 
-// Step 1: Set up the Elasticsearch client.
+// 1. Elasticsearch client
 const esClient = new Client({
     node: process.env.ES_ENDPOINT,
     auth: {
@@ -29,24 +27,27 @@ const esClient = new Client({
     }
 });
 
-// Step 2: A helper function to parse or extract data from the page.
-// We'll do some minimal cleanup, removing script and style elements before we extract the text.
+// 2. Remove extraneous elements to keep only main content
 async function getCleanText(page) {
-    // Remove <script> and <style> elements from DOM to avoid inline JS code.
+    // We remove scripts, styles, iframes, nav, header, footer, aside, etc.
     await page.evaluate(() => {
-        const elements = document.querySelectorAll('script, style');
-        elements.forEach((el) => el.remove());
+        const tagsToRemove = [
+            'script', 'style', 'iframe', 'nav', 'header', 'footer', 'aside',
+            'noscript', 'form', 'link', 'meta', 'button', 'input'
+        ];
+        tagsToRemove.forEach(tag => {
+            document.querySelectorAll(tag).forEach(el => el.remove());
+        });
     });
 
-    // Now, get the text of the body.
+    // Extract text from <body>
     let bodyText = await page.textContent('body');
     if (!bodyText) {
         return '';
     }
 
-    // Additional optional cleanup can go here.
-    // For example, removing multiple line breaks, excessive whitespace, etc.
-    // bodyText = bodyText.replace(/\s+/g, ' ').trim();
+    // Condense whitespace
+    bodyText = bodyText.replace(/\s+/g, ' ').trim();
 
     return bodyText;
 }
@@ -60,21 +61,21 @@ function parseData({ pageTitle, pageText, pageUrl }) {
     };
 }
 
-// Step 3: Create the PlaywrightCrawler
+// 3. Create the PlaywrightCrawler
 const crawler = new PlaywrightCrawler({
     maxConcurrency: 5,
     requestHandler: async ({ request, page, enqueueLinks }) => {
         console.log(`Now processing: ${request.url}`);
 
-        // Clean up the page before extracting text
+        // Clean up the page
         const pageText = await getCleanText(page);
         const pageTitle = await page.title();
         const pageUrl = request.url;
 
-        // Build the data object to store in ES
+        // Build document to store
         const documentData = parseData({ pageTitle, pageText, pageUrl });
 
-        // Step 4: Index the cleaned data into Elasticsearch
+        // 4. Index in Elasticsearch
         try {
             await esClient.index({
                 index: 'ntu_website',
@@ -85,7 +86,7 @@ const crawler = new PlaywrightCrawler({
             console.error(`Error indexing data for: ${pageUrl}`, err);
         }
 
-        // Step 5: Enqueue more links found on the page
+        // 5. Enqueue more links from the page
         await enqueueLinks({
             selector: 'a',
             baseUrl: request.loadedUrl
@@ -93,7 +94,7 @@ const crawler = new PlaywrightCrawler({
     }
 });
 
-// Step 6: Run the crawler
+// 6. Run the crawler
 async function run() {
     try {
         await crawler.run([

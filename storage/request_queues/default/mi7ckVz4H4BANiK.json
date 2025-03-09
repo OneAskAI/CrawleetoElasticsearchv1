@@ -1,9 +1,0 @@
-{
-	"id": "mi7ckVz4H4BANiK",
-	"json": "{\"id\":\"mi7ckVz4H4BANiK\",\"url\":\"https://www.ntu.edu.tw/english/about/motto.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/english/about/motto.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/about/motto.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:46:28.712Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/about/motto.html",
-	"url": "https://www.ntu.edu.tw/english/about/motto.html"
-}

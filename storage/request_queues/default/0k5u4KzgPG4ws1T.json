@@ -1,8 +1,8 @@
 {
 	"id": "0k5u4KzgPG4ws1T",
-	"json": "{\"id\":\"0k5u4KzgPG4ws1T\",\"url\":\"https://www.ntu.edu.tw/about/doc/Emblem72.jpg\",\"loadedUrl\":\"https://www.ntu.edu.tw/about/doc/Emblem72.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/doc/Emblem72.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:47:06.460Z\"}",
+	"json": "{\"id\":\"0k5u4KzgPG4ws1T\",\"url\":\"https://www.ntu.edu.tw/about/doc/Emblem72.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/doc/Emblem72.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
 	"method": "GET",
-	"orderNo": null,
+	"orderNo": 1741478272786,
 	"retryCount": 0,
 	"uniqueKey": "https://www.ntu.edu.tw/about/doc/Emblem72.jpg",
 	"url": "https://www.ntu.edu.tw/about/doc/Emblem72.jpg"

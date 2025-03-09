@@ -2,7 +2,7 @@
 	"id": "tRYK7iLliu5adV6",
 	"json": "{\"id\":\"tRYK7iLliu5adV6\",\"url\":\"https://www.ntu.edu.tw/spotlight/2022/2064_20220518.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2022/2064_20220518.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
 	"method": "GET",
-	"orderNo": 1741477572152,
+	"orderNo": 1741478256654,
 	"retryCount": 0,
 	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2022/2064_20220518.html",
 	"url": "https://www.ntu.edu.tw/spotlight/2022/2064_20220518.html"

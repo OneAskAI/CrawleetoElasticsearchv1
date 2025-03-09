@@ -1,8 +1,8 @@
 {
 	"id": "Gul0V4dUuNtUOoB",
-	"json": "{\"id\":\"Gul0V4dUuNtUOoB\",\"url\":\"https://www.ntu.edu.tw/about/map.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/about/map.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/map.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:44:41.052Z\"}",
+	"json": "{\"id\":\"Gul0V4dUuNtUOoB\",\"url\":\"https://www.ntu.edu.tw/about/map.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/map.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
 	"method": "GET",
-	"orderNo": null,
+	"orderNo": 1741478273250,
 	"retryCount": 0,
 	"uniqueKey": "https://www.ntu.edu.tw/about/map.html",
 	"url": "https://www.ntu.edu.tw/about/map.html"

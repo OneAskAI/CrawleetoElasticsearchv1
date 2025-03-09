@@ -1,9 +1,0 @@
-{
-	"id": "l8DBCqhdreUmISy",
-	"json": "{\"id\":\"l8DBCqhdreUmISy\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/2021/1991_20211006.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/2021/1991_20211006.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1741477599943,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/2021/1991_20211006.html",
-	"url": "https://www.ntu.edu.tw/english/spotlight/2021/1991_20211006.html"
-}

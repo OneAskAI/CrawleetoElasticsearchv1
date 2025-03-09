@@ -1,9 +1,0 @@
-{
-	"id": "8cSDbQ4RfjM3fvb",
-	"json": "{\"id\":\"8cSDbQ4RfjM3fvb\",\"url\":\"https://www.ntu.edu.tw/english/spotlight/2020/1835_20200525.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/english/spotlight/2020/1835_20200525.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1741477599961,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/english/spotlight/2020/1835_20200525.html",
-	"url": "https://www.ntu.edu.tw/english/spotlight/2020/1835_20200525.html"
-}

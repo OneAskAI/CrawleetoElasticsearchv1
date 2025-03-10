@@ -1,0 +1,9 @@
+{
+	"id": "yWPxb7T0iRmlA6H",
+	"json": "{\"id\":\"yWPxb7T0iRmlA6H\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/31119879125645-DNS-records-for-web-hosting\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/31119879125645-DNS-records-for-web-hosting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581566596,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/31119879125645-DNS-records-for-web-hosting",
+	"url": "https://support.squarespace.com/hc/en-us/articles/31119879125645-DNS-records-for-web-hosting"
+}

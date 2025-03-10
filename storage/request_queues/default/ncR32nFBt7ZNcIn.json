@@ -1,0 +1,9 @@
+{
+	"id": "ncR32nFBt7ZNcIn",
+	"json": "{\"id\":\"ncR32nFBt7ZNcIn\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/206545487-Why-we-don-t-offer-phone-support\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/206545487-Why-we-don-t-offer-phone-support\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581600458,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/206545487-Why-we-don-t-offer-phone-support",
+	"url": "https://support.squarespace.com/hc/en-us/articles/206545487-Why-we-don-t-offer-phone-support"
+}

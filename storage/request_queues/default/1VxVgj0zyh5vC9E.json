@@ -1,0 +1,9 @@
+{
+	"id": "1VxVgj0zyh5vC9E",
+	"json": "{\"id\":\"1VxVgj0zyh5vC9E\",\"url\":\"https://support.squarespace.com/hc/articles/206537197\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/206537197-Changing-site-ownership\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/206537197\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:40:33.808Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/206537197",
+	"url": "https://support.squarespace.com/hc/articles/206537197"
+}

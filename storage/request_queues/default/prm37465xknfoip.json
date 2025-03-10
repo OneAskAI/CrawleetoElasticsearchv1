@@ -1,9 +1,0 @@
-{
-	"id": "prm37465xknfoip",
-	"json": "{\"id\":\"prm37465xknfoip\",\"url\":\"https://www.ntu.edu.tw/spotlight/2024/2228_20240103_1.jpg\",\"uniqueKey\":\"https://www.ntu.edu.tw/spotlight/2024/2228_20240103_1.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1741478392801,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/spotlight/2024/2228_20240103_1.jpg",
-	"url": "https://www.ntu.edu.tw/spotlight/2024/2228_20240103_1.jpg"
-}

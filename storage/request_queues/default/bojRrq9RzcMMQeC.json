@@ -1,0 +1,9 @@
+{
+	"id": "bojRrq9RzcMMQeC",
+	"json": "{\"id\":\"bojRrq9RzcMMQeC\",\"url\":\"https://support.squarespace.com/hc/articles/206800527\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/206800527\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.goto: net::ERR_ABORTED at https://support.squarespace.com/hc/articles/206800527\\nCall log:\\n\\u001b[2m  - navigating to \\\"https://support.squarespace.com/hc/articles/206800527\\\", waiting until \\\"load\\\"\\u001b[22m\\n\\n    at gotoExtended (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17)\\n    at PlaywrightCrawler._navigationHandler (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/playwright-crawler.js:117:52)\\n    at PlaywrightCrawler._handleNavigation (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:331:52)\\n    at async PlaywrightCrawler._runRequestHandler (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:260:13)\\n    at async PlaywrightCrawler._runRequestHandler (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/playwright-crawler.js:114:9)\\n    at async wrap (/Users/fermi/Desktop/oneaskaitest/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1741581648574,
+	"retryCount": 1,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/206800527",
+	"url": "https://support.squarespace.com/hc/articles/206800527"
+}

@@ -1,25 +1,11 @@
-/*
-NTU-Crawlee-ES-Integration with ENV-based Elasticsearch configuration and extended content cleaning
-
-This version:
-1. Uses Crawlee (PlaywrightCrawler) to crawl https://www.ntu.edu.tw/
-2. Removes a broad set of non-essential elements (scripts, styles, iframes, nav, header, footer, etc.)
-3. Indexes the minimal textual content of each page into Elasticsearch
-4. Reads ES endpoint and API key from a .env file
-
-Usage:
-1. npm install crawlee @elastic/elasticsearch dotenv
-2. Create a .env with:
-   ES_ENDPOINT="<your-elasticsearch-endpoint>"
-   ES_API_KEY="<your-elasticsearch-api-key>"
-3. Save as ntu-crawler.js, run: node ntu-crawler.js
-*/
-
 import 'dotenv/config';
+import { GoogleGenerativeAI } from '@google/generative-ai';
+import fetch from 'node-fetch';
 import { PlaywrightCrawler } from 'crawlee';
 import { Client } from '@elastic/elasticsearch';
 
-// 1. Elasticsearch client
+// 1. Create Elasticsearch client from environment variables.
+//    Make sure you have ES_ENDPOINT and ES_API_KEY set in your .env or environment.
 const esClient = new Client({
     node: process.env.ES_ENDPOINT,
     auth: {
@@ -27,85 +13,132 @@ const esClient = new Client({
     }
 });
 
-// 2. Remove extraneous elements to keep only main content
-async function getCleanText(page) {
-    // We remove scripts, styles, iframes, nav, header, footer, aside, etc.
-    await page.evaluate(() => {
-        const tagsToRemove = [
-            'script', 'style', 'iframe', 'nav', 'header', 'footer', 'aside',
-            'noscript', 'form', 'link', 'meta', 'button', 'input'
-        ];
-        tagsToRemove.forEach(tag => {
-            document.querySelectorAll(tag).forEach(el => el.remove());
-        });
+// 2. Initialize the GoogleGenerativeAI client.
+const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
+const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
+
+// 3. Generate the custom cleaner function code with LLM.
+async function generateCleanerWithGoogleAI(pageHtml) {
+    const prompt =
+        'You are a helpful coding assistant. Analyze the following HTML and generate ONLY the raw JavaScript code for an async function named getCleanText(page) that, when executed in a Playwright context, performs the following tasks:\n' +
+        '- Waits for dynamic content to load (e.g. using page.waitForLoadState).\n' +
+        '- Removes extraneous elements such as scripts, styles, iframes, noscript, header, nav, footer, etc., using Playwright APIs (do not use Puppeteer-specific functions like page.$x; instead, use page.locator with XPath selectors and evaluateAll).\n' +
+        '- Returns only the main textual content (for example, using document.body.innerText).\n' +
+        'DO NOT include any markdown formatting or extra commentary. Output ONLY the function code exactly as it should be defined.\n\nHTML:\n' +
+        pageHtml;
+
+    const result = await model.generateContent(prompt);
+    let code = result.response.text();
+
+    if (!code) {
+        throw new Error('No code was returned by the LLM.');
+    }
+
+    // Strip markdown code fences if present.
+    code = code.replace(/```/g, '').trim();
+
+
+    // Remove any leading "javascript" token.
+    if (code.toLowerCase().startsWith("javascript")) {
+        code = code.replace(/^javascript\s*/i, "");
+    }
+
+    console.log('Generated code:', code);
+    return code;
+}
+
+
+
+// 4. Build the crawler by first fetching homepage HTML, then using the LLM code.
+async function buildCrawler(websiteUrl, esIndexName) {
+    // (A) Fetch homepage HTML for the LLM to analyze.
+    const homepageResponse = await fetch(websiteUrl);
+    if (!homepageResponse.ok) {
+        throw new Error(
+            'Failed to fetch homepage. Status: ' + homepageResponse.status
+        );
+    }
+    console.log('Fetching homepage HTML...');
+
+    const homepageHtml = await homepageResponse.text();
+    console.log('Homepage fetched, generating cleaner function...');
+
+    // (B) Get the getCleanText function source from the LLM.
+    const getCleanTextSource = await generateCleanerWithGoogleAI(homepageHtml);
+    console.log('Cleaner function generated.');
+
+    // (C) Dynamically create the getCleanText function from the LLM’s returned code.
+    let getCleanText;
+
+    try {
+        const wrappedCode = '"use strict"; ' + getCleanTextSource + '; return getCleanText;';
+        const buildFunction = new Function(wrappedCode);
+        getCleanText = buildFunction();
+
+        if (typeof getCleanText !== 'function') {
+            throw new Error('The code did not define a function named getCleanText.');
+        }
+    } catch (error) {
+        throw new Error('Error building function from LLM code: ' + error.message);
+    }
+
+    // (D) Create the crawler that uses getCleanText.
+    const crawler = new PlaywrightCrawler({
+        maxConcurrency: 5,
+        requestHandler: async function (context) {
+            const request = context.request;
+            const page = context.page;
+            const enqueueLinks = context.enqueueLinks;
+
+            console.log('Now processing:', request.url);
+
+            // Clean the page content using getCleanText.
+            const pageText = await getCleanText(page);
+            const pageTitle = await page.title();
+            const pageUrl = request.url;
+
+            const documentData = {
+                title: pageTitle,
+                content: pageText,
+                url: pageUrl,
+                crawledAt: new Date().toISOString()
+            };
+
+            // Index into Elasticsearch using the user-provided index name.
+            try {
+                await esClient.index({
+                    index: esIndexName,
+                    document: documentData
+                });
+                console.log('Successfully indexed page:', pageUrl);
+            } catch (error) {
+                console.error('Error indexing data for:', pageUrl, error);
+            }
+
+            // Enqueue more links.
+            await enqueueLinks({
+                selector: 'a',
+                baseUrl: request.loadedUrl
+            });
+        }
     });
 
-    // Extract text from <body>
-    let bodyText = await page.textContent('body');
-    if (!bodyText) {
-        return '';
-    }
-
-    // Condense whitespace
-    bodyText = bodyText.replace(/\s+/g, ' ').trim();
-
-    return bodyText;
+    return crawler;
 }
 
-function parseData({ pageTitle, pageText, pageUrl }) {
-    return {
-        title: pageTitle,
-        content: pageText,
-        url: pageUrl,
-        crawledAt: new Date().toISOString()
-    };
-}
-
-// 3. Create the PlaywrightCrawler
-const crawler = new PlaywrightCrawler({
-    maxConcurrency: 5,
-    requestHandler: async ({ request, page, enqueueLinks }) => {
-        console.log(`Now processing: ${request.url}`);
-
-        // Clean up the page
-        const pageText = await getCleanText(page);
-        const pageTitle = await page.title();
-        const pageUrl = request.url;
-
-        // Build document to store
-        const documentData = parseData({ pageTitle, pageText, pageUrl });
-
-        // 4. Index in Elasticsearch
-        try {
-            await esClient.index({
-                index: 'ntu_website',
-                document: documentData
-            });
-            console.log(`Successfully indexed page: ${pageUrl}`);
-        } catch (err) {
-            console.error(`Error indexing data for: ${pageUrl}`, err);
-        }
-
-        // 5. Enqueue more links from the page
-        await enqueueLinks({
-            selector: 'a',
-            baseUrl: request.loadedUrl
-        });
-    }
-});
-
-// 6. Run the crawler
+// 5. Main runner to orchestrate everything.
 async function run() {
+
+    const [, , websiteUrl, esIndexName] = process.argv;
+
     try {
-        await crawler.run([
-            {
-                url: 'https://www.ntu.edu.tw/'
-            }
-        ]);
+        const crawler = await buildCrawler(websiteUrl, esIndexName);
+        await crawler.run([{ url: websiteUrl }]);
         console.log('Crawling complete.');
-    } catch (err) {
-        console.error('Error starting the crawler:', err);
+    } catch (error) {
+        console.error('Error in run():', error);
     }
 }
 
 run();
+

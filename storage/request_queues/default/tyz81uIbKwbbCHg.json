@@ -1,0 +1,9 @@
+{
+	"id": "tyz81uIbKwbbCHg",
+	"json": "{\"id\":\"tyz81uIbKwbbCHg\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/206540777-Physical-products\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/206540777-Physical-products\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574304,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/206540777-Physical-products",
+	"url": "https://support.squarespace.com/hc/en-us/articles/206540777-Physical-products"
+}

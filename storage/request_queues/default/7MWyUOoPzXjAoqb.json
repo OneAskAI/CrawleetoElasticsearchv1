@@ -1,0 +1,9 @@
+{
+	"id": "7MWyUOoPzXjAoqb",
+	"json": "{\"id\":\"7MWyUOoPzXjAoqb\",\"url\":\"https://support.squarespace.com/hc/articles/212512738#toc-intro-areas\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/212512738\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581563396,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/212512738",
+	"url": "https://support.squarespace.com/hc/articles/212512738#toc-intro-areas"
+}

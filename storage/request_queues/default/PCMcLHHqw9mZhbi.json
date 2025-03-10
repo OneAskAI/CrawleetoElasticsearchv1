@@ -1,0 +1,9 @@
+{
+	"id": "PCMcLHHqw9mZhbi",
+	"json": "{\"id\":\"PCMcLHHqw9mZhbi\",\"url\":\"https://support.squarespace.com/hc/en-us/sections/360011110191-Creating-campaigns\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/sections/360011110191-Creating-campaigns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581580555,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/sections/360011110191-Creating-campaigns",
+	"url": "https://support.squarespace.com/hc/en-us/sections/360011110191-Creating-campaigns"
+}

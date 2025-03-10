@@ -1,0 +1,9 @@
+{
+	"id": "YISf53qMZOaxVsP",
+	"json": "{\"id\":\"YISf53qMZOaxVsP\",\"url\":\"https://support.squarespace.com/hc/articles/19861422137613\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/19861422137613-Understanding-a-negative-balance-with-Squarespace-Payments\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/19861422137613\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:39:56.789Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/19861422137613",
+	"url": "https://support.squarespace.com/hc/articles/19861422137613"
+}

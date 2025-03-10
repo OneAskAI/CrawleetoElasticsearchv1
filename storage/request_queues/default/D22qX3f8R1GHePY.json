@@ -1,0 +1,9 @@
+{
+	"id": "D22qX3f8R1GHePY",
+	"json": "{\"id\":\"D22qX3f8R1GHePY\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/205812088-Domains-basics\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/205812088-Domains-basics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581566273,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/205812088-Domains-basics",
+	"url": "https://support.squarespace.com/hc/en-us/articles/205812088-Domains-basics"
+}

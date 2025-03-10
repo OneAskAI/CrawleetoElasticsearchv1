@@ -1,0 +1,9 @@
+{
+	"id": "PgahnDqy9f2mx3b",
+	"json": "{\"id\":\"PgahnDqy9f2mx3b\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/360001280728-Setting-up-sender-details\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/360001280728-Setting-up-sender-details\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581580539,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/360001280728-Setting-up-sender-details",
+	"url": "https://support.squarespace.com/hc/en-us/articles/360001280728-Setting-up-sender-details"
+}

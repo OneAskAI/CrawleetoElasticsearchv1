@@ -1,0 +1,9 @@
+{
+	"id": "vntrNhJnqaNK55U",
+	"json": "{\"id\":\"vntrNhJnqaNK55U\",\"url\":\"https://support.squarespace.com/hc/articles/206540947\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/206540947-Setting-up-manual-tax-rates-in-Squarespace\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/206540947\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:39:39.229Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/206540947",
+	"url": "https://support.squarespace.com/hc/articles/206540947"
+}

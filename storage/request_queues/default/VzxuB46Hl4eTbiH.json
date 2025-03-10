@@ -1,0 +1,9 @@
+{
+	"id": "VzxuB46Hl4eTbiH",
+	"json": "{\"id\":\"VzxuB46Hl4eTbiH\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/206537297-Squarespace-permissions-explained\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/206537297-Squarespace-permissions-explained\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/206537297-Squarespace-permissions-explained\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:39:16.310Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/206537297-Squarespace-permissions-explained",
+	"url": "https://support.squarespace.com/hc/en-us/articles/206537297-Squarespace-permissions-explained"
+}

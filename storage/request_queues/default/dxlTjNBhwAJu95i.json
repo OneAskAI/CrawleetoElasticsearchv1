@@ -1,0 +1,9 @@
+{
+	"id": "dxlTjNBhwAJu95i",
+	"json": "{\"id\":\"dxlTjNBhwAJu95i\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/360002113347-Choosing-the-right-shipping-options\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/360002113347-Choosing-the-right-shipping-options\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574311,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/360002113347-Choosing-the-right-shipping-options",
+	"url": "https://support.squarespace.com/hc/en-us/articles/360002113347-Choosing-the-right-shipping-options"
+}

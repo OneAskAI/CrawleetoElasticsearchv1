@@ -1,49 +1,37 @@
 {
-  "requestsFinished": 83,
-  "requestsFailed": 48,
-  "requestsRetries": 48,
-  "requestsFailedPerMinute": 23,
-  "requestsFinishedPerMinute": 41,
-  "requestMinDurationMillis": 400,
-  "requestMaxDurationMillis": 15443,
-  "requestTotalFailedDurationMillis": 52342,
-  "requestTotalFinishedDurationMillis": 254139,
-  "crawlerStartedAt": "2025-03-08T23:57:07.651Z",
+  "requestsFinished": 50,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 50,
+  "requestMinDurationMillis": 1644,
+  "requestMaxDurationMillis": 7824,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 203584,
+  "crawlerStartedAt": "2025-03-10T04:39:03.636Z",
   "crawlerFinishedAt": null,
-  "statsPersistedAt": "2025-03-08T23:59:07.655Z",
-  "crawlerRuntimeMillis": 120366,
-  "crawlerLastStartTimestamp": 1741478227289,
+  "statsPersistedAt": "2025-03-10T04:40:03.636Z",
+  "crawlerRuntimeMillis": 60235,
+  "crawlerLastStartTimestamp": 1741581543401,
   "requestRetryHistogram": [
-    83,
-    null,
-    null,
-    48
+    50
   ],
   "statsId": 0,
-  "requestAvgFailedDurationMillis": 1090,
-  "requestAvgFinishedDurationMillis": 3062,
-  "requestTotalDurationMillis": 306481,
-  "requestsTotal": 131,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 4072,
+  "requestTotalDurationMillis": 203584,
+  "requestsTotal": 50,
   "requestsWithStatusCode": {
-    "200": 84
+    "200": 53,
+    "404": 1
   },
-  "errors": {
-    "/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
-      "missing error code": {
-        "Error": {
-          "page.goto: net::ERR_ABORTED at _": {
-            "count": 48
-          }
-        }
-      }
-    }
-  },
+  "errors": {},
   "retryErrors": {
-    "/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+    "<anonymous>:16:35": {
       "missing error code": {
         "Error": {
-          "page.goto: net::ERR_ABORTED at _": {
-            "count": 156
+          "locator.evaluateAll: Execution context was destroyed, most likely because of a navigation": {
+            "count": 3
           }
         }
       }

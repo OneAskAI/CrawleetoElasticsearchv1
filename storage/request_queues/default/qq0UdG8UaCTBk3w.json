@@ -1,0 +1,9 @@
+{
+	"id": "qq0UdG8UaCTBk3w",
+	"json": "{\"id\":\"qq0UdG8UaCTBk3w\",\"url\":\"https://support.squarespace.com/hc/en-us/categories/360004634331-Email-Campaigns\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/categories/360004634331-Email-Campaigns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581581995,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/categories/360004634331-Email-Campaigns",
+	"url": "https://support.squarespace.com/hc/en-us/categories/360004634331-Email-Campaigns"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZvOKUQm5znUSjxT",
+	"json": "{\"id\":\"ZvOKUQm5znUSjxT\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/206540687-Adding-product-variants\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/206540687-Adding-product-variants\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574291,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/206540687-Adding-product-variants",
+	"url": "https://support.squarespace.com/hc/en-us/articles/206540687-Adding-product-variants"
+}

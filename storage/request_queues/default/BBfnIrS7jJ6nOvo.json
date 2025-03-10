@@ -1,0 +1,9 @@
+{
+	"id": "BBfnIrS7jJ6nOvo",
+	"json": "{\"id\":\"BBfnIrS7jJ6nOvo\",\"url\":\"https://support.squarespace.com/hc/articles/4419322418317\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/4419322418317\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581589915,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/4419322418317",
+	"url": "https://support.squarespace.com/hc/articles/4419322418317"
+}

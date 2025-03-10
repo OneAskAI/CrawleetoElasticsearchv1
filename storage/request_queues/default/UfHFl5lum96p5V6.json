@@ -1,9 +1,0 @@
-{
-	"id": "UfHFl5lum96p5V6",
-	"json": "{\"id\":\"UfHFl5lum96p5V6\",\"url\":\"https://www.ntu.edu.tw/tele119.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/tele119.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1741478262252,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/tele119.html",
-	"url": "https://www.ntu.edu.tw/tele119.html"
-}

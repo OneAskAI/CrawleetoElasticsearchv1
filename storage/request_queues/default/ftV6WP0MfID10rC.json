@@ -1,0 +1,9 @@
+{
+	"id": "ftV6WP0MfID10rC",
+	"json": "{\"id\":\"ftV6WP0MfID10rC\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/206540787-Download-products\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/206540787-Download-products\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574305,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/206540787-Download-products",
+	"url": "https://support.squarespace.com/hc/en-us/articles/206540787-Download-products"
+}

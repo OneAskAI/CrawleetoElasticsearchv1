@@ -1,0 +1,9 @@
+{
+	"id": "8qnI4QCmRCYwEsv",
+	"json": "{\"id\":\"8qnI4QCmRCYwEsv\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/360001989007-Good-design-practices\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/360001989007-Good-design-practices\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581600731,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/360001989007-Good-design-practices",
+	"url": "https://support.squarespace.com/hc/en-us/articles/360001989007-Good-design-practices"
+}

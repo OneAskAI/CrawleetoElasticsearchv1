@@ -1,0 +1,9 @@
+{
+	"id": "r3fZTW0lDPwBSkg",
+	"json": "{\"id\":\"r3fZTW0lDPwBSkg\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/360024598852-Understanding-your-site-s-traffic-patterns\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/360024598852-Understanding-your-site-s-traffic-patterns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581603832,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/360024598852-Understanding-your-site-s-traffic-patterns",
+	"url": "https://support.squarespace.com/hc/en-us/articles/360024598852-Understanding-your-site-s-traffic-patterns"
+}

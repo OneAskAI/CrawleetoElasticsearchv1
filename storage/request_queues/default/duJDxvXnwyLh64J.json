@@ -1,0 +1,9 @@
+{
+	"id": "duJDxvXnwyLh64J",
+	"json": "{\"id\":\"duJDxvXnwyLh64J\",\"url\":\"https://support.squarespace.com/hc/articles/360001280588\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/360001280588-Getting-started-with-Squarespace-Email-Campaigns\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/360001280588\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:39:47.103Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/360001280588",
+	"url": "https://support.squarespace.com/hc/articles/360001280588"
+}

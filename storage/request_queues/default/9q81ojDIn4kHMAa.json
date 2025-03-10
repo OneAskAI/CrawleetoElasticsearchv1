@@ -1,0 +1,9 @@
+{
+	"id": "9q81ojDIn4kHMAa",
+	"json": "{\"id\":\"9q81ojDIn4kHMAa\",\"url\":\"https://support.squarespace.com/hc/articles/360000975547\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/360000975547-Squarespace-Extensions\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/360000975547\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"locator.evaluateAll: Target page, context or browser has been closed\\n    at getCleanText (<anonymous>:16:35)\\n    at async PlaywrightCrawler.requestHandler (/Users/fermi/Desktop/oneaskaitest/node.js:96:30)\\n    at async wrap (/Users/fermi/Desktop/oneaskaitest/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1741581648567,
+	"retryCount": 1,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/360000975547",
+	"url": "https://support.squarespace.com/hc/articles/360000975547"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "V80NtJxkrmwjq1H",
+	"json": "{\"id\":\"V80NtJxkrmwjq1H\",\"url\":\"https://support.squarespace.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F206537297-Squarespace-permissions-explained\",\"loadedUrl\":\"https://login.squarespace.com/api/1/login/oauth/provider/authorize?client_id=wAHMs0yNCd2CyyoI0Eclva4GmZ1qqRPx&redirect_uri=https%3A%2F%2Faccount.squarespace.com%2Foauth-connect&state=v2.local.sOR9J1M23gFl1VRKYYfnSIYoNWp02uJtm5ITlvx47q-BEIs5GQZNVJ8a-6rjxZ6qTjwQZy0EMHVH_j3sBWil9H2jvrIAImUMihw-3tmRqEiWQHDOrhpjaIzsdHi57LuARCAESvaOaDG67RJx0YKET_fC9JGe8XcUTHt2P8vW1NGEfWNA8fvNUHqppoLGq4lbCmMu8sNYHiiVdRthf8oMm5x2iILJL5Exvzq-DrcEX8Gx6uknTksNrtPE_DOhhfUsautPx7kFJCMwAAAtD9mw00GCmQmODkN4rjXJyLuemQqORlqoA9AOMH9_VLds42SF_oJUtnE0KBla&options=%7B%22isCloseVisible%22%3Afalse%2C%22isCreateAccountViewActive%22%3Afalse%7D&force_login=false\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F206537297-Squarespace-permissions-explained\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":7}},\"handledAt\":\"2025-03-10T04:40:23.103Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F206537297-Squarespace-permissions-explained",
+	"url": "https://support.squarespace.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F206537297-Squarespace-permissions-explained"
+}

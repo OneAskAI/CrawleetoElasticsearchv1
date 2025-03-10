@@ -1,0 +1,9 @@
+{
+	"id": "I2fgNViPlAOO6ub",
+	"json": "{\"id\":\"I2fgNViPlAOO6ub\",\"url\":\"https://support.squarespace.com/hc/articles/212872328\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/212872328-Business-Information-settings\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/212872328\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.$$eval: Target page, context or browser has been closed\\n    at extractUrlsFromPage (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:479:30)\\n    at browserCrawlerEnqueueLinks (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:464:24)\\n    at crawlingContext.enqueueLinks (/Users/fermi/Desktop/oneaskaitest/node_modules/@crawlee/browser/internals/browser-crawler.js:313:20)\\n    at async PlaywrightCrawler.requestHandler (/Users/fermi/Desktop/oneaskaitest/node.js:119:13)\\n    at async wrap (/Users/fermi/Desktop/oneaskaitest/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1741581648631,
+	"retryCount": 1,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/212872328",
+	"url": "https://support.squarespace.com/hc/articles/212872328"
+}

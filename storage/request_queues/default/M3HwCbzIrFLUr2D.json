@@ -1,0 +1,9 @@
+{
+	"id": "M3HwCbzIrFLUr2D",
+	"json": "{\"id\":\"M3HwCbzIrFLUr2D\",\"url\":\"https://support.squarespace.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F360001280808-Email-campaign-best-practices\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F360001280808-Email-campaign-best-practices\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581585941,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F360001280808-Email-campaign-best-practices",
+	"url": "https://support.squarespace.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.squarespace.com%2Fhc%2Fen-us%2Farticles%2F360001280808-Email-campaign-best-practices"
+}

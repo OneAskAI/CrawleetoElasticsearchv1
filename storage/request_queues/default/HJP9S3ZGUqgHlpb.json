@@ -1,0 +1,9 @@
+{
+	"id": "HJP9S3ZGUqgHlpb",
+	"json": "{\"id\":\"HJP9S3ZGUqgHlpb\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/31120980444429-Adding-TXT-records\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/31120980444429-Adding-TXT-records\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581566600,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/31120980444429-Adding-TXT-records",
+	"url": "https://support.squarespace.com/hc/en-us/articles/31120980444429-Adding-TXT-records"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZUgd5MjvGf2kmqM",
+	"json": "{\"id\":\"ZUgd5MjvGf2kmqM\",\"url\":\"https://support.squarespace.com/hc/articles/360001280708\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/360001280708-Building-mailing-lists\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/360001280708\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:39:42.003Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/360001280708",
+	"url": "https://support.squarespace.com/hc/articles/360001280708"
+}

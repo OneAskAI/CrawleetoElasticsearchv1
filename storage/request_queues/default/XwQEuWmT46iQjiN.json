@@ -1,0 +1,9 @@
+{
+	"id": "XwQEuWmT46iQjiN",
+	"json": "{\"id\":\"XwQEuWmT46iQjiN\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/115016047168-Accepted-payment-methods-for-your-Squarespace-subscriptions\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/115016047168-Accepted-payment-methods-for-your-Squarespace-subscriptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581597131,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/115016047168-Accepted-payment-methods-for-your-Squarespace-subscriptions",
+	"url": "https://support.squarespace.com/hc/en-us/articles/115016047168-Accepted-payment-methods-for-your-Squarespace-subscriptions"
+}

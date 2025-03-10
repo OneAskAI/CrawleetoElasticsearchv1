@@ -1,0 +1,9 @@
+{
+	"id": "6lVVyRdxwrsPjgC",
+	"json": "{\"id\":\"6lVVyRdxwrsPjgC\",\"url\":\"https://support.squarespace.com/'weixin://dl/scan/'\",\"loadedUrl\":\"https://support.squarespace.com/'weixin://dl/scan/'\",\"uniqueKey\":\"https://support.squarespace.com/'weixin://dl/scan/'\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:39:19.410Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/'weixin://dl/scan/'",
+	"url": "https://support.squarespace.com/'weixin://dl/scan/'"
+}

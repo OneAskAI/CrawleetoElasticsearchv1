@@ -1,0 +1,9 @@
+{
+	"id": "LQCBmR08CDZsUiI",
+	"json": "{\"id\":\"LQCBmR08CDZsUiI\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/206146048-Offering-a-free-product\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/206146048-Offering-a-free-product\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574378,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/206146048-Offering-a-free-product",
+	"url": "https://support.squarespace.com/hc/en-us/articles/206146048-Offering-a-free-product"
+}

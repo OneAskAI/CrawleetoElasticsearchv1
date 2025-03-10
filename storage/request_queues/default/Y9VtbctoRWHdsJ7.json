@@ -1,0 +1,9 @@
+{
+	"id": "Y9VtbctoRWHdsJ7",
+	"json": "{\"id\":\"Y9VtbctoRWHdsJ7\",\"url\":\"https://support.squarespace.com/hc/en-us/sections/204232008-Google-Workspace\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/sections/204232008-Google-Workspace\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581570363,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/sections/204232008-Google-Workspace",
+	"url": "https://support.squarespace.com/hc/en-us/sections/204232008-Google-Workspace"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Qh4zK2gA3XhKJxU",
+	"json": "{\"id\":\"Qh4zK2gA3XhKJxU\",\"url\":\"https://support.squarespace.com/hc/categories/360004634331\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/categories/360004634331\",\"uniqueKey\":\"https://support.squarespace.com/hc/categories/360004634331\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:39:40.559Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/categories/360004634331",
+	"url": "https://support.squarespace.com/hc/categories/360004634331"
+}

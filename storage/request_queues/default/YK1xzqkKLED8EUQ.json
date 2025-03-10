@@ -1,0 +1,9 @@
+{
+	"id": "YK1xzqkKLED8EUQ",
+	"json": "{\"id\":\"YK1xzqkKLED8EUQ\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/115005303187-Managing-discounts\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/115005303187-Managing-discounts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574372,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/115005303187-Managing-discounts",
+	"url": "https://support.squarespace.com/hc/en-us/articles/115005303187-Managing-discounts"
+}

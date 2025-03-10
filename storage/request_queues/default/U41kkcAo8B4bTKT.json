@@ -1,9 +1,0 @@
-{
-	"id": "U41kkcAo8B4bTKT",
-	"json": "{\"id\":\"U41kkcAo8B4bTKT\",\"url\":\"https://www.ntu.edu.tw/images/about/emblem_2.png\",\"uniqueKey\":\"https://www.ntu.edu.tw/images/about/emblem_2.png\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1741478272784,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/images/about/emblem_2.png",
-	"url": "https://www.ntu.edu.tw/images/about/emblem_2.png"
-}

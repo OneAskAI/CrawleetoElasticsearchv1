@@ -1,0 +1,9 @@
+{
+	"id": "n7NbribcCehzzqN",
+	"json": "{\"id\":\"n7NbribcCehzzqN\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/115012976707-How-customers-use-customer-accounts\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/115012976707-How-customers-use-customer-accounts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574380,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/115012976707-How-customers-use-customer-accounts",
+	"url": "https://support.squarespace.com/hc/en-us/articles/115012976707-How-customers-use-customer-accounts"
+}

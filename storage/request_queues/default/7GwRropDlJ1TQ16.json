@@ -1,0 +1,9 @@
+{
+	"id": "7GwRropDlJ1TQ16",
+	"json": "{\"id\":\"7GwRropDlJ1TQ16\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/360001280808-Email-campaign-best-practices\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/360001280808-Email-campaign-best-practices\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581580509,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/360001280808-Email-campaign-best-practices",
+	"url": "https://support.squarespace.com/hc/en-us/articles/360001280808-Email-campaign-best-practices"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4Ew7f1sUaTnrihD",
+	"json": "{\"id\":\"4Ew7f1sUaTnrihD\",\"url\":\"https://support.squarespace.com/hc/articles/217783698\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/217783698-Requesting-third-party-domain-help\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/217783698\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:40:17.751Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/217783698",
+	"url": "https://support.squarespace.com/hc/articles/217783698"
+}

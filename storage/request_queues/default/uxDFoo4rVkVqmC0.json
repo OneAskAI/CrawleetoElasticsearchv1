@@ -1,0 +1,9 @@
+{
+	"id": "uxDFoo4rVkVqmC0",
+	"json": "{\"id\":\"uxDFoo4rVkVqmC0\",\"url\":\"https://support.squarespace.com/hc/en-us/categories/200290368-Images-and-Videos\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/categories/200290368-Images-and-Videos\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581564978,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/categories/200290368-Images-and-Videos",
+	"url": "https://support.squarespace.com/hc/en-us/categories/200290368-Images-and-Videos"
+}

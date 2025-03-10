@@ -1,0 +1,9 @@
+{
+	"id": "FqirL85GV36EByq",
+	"json": "{\"id\":\"FqirL85GV36EByq\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/27853679334157-Transaction-fees-and-payment-processing-fees\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/27853679334157-Transaction-fees-and-payment-processing-fees\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581597134,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/27853679334157-Transaction-fees-and-payment-processing-fees",
+	"url": "https://support.squarespace.com/hc/en-us/articles/27853679334157-Transaction-fees-and-payment-processing-fees"
+}

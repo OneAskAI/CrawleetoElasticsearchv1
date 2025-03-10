@@ -1,0 +1,9 @@
+{
+	"id": "b2bM6OorsIYSpKI",
+	"json": "{\"id\":\"b2bM6OorsIYSpKI\",\"url\":\"https://support.squarespace.com/hc/articles/7157155108749\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/7157155108749-Starting-an-Acuity-Scheduling-trial\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/7157155108749\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:39:48.977Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/7157155108749",
+	"url": "https://support.squarespace.com/hc/articles/7157155108749"
+}

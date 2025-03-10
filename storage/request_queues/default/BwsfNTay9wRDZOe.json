@@ -1,0 +1,9 @@
+{
+	"id": "BwsfNTay9wRDZOe",
+	"json": "{\"id\":\"BwsfNTay9wRDZOe\",\"url\":\"https://support.squarespace.com/hc/en-us/sections/115003554887-Discounts-and-promotions\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/sections/115003554887-Discounts-and-promotions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574388,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/sections/115003554887-Discounts-and-promotions",
+	"url": "https://support.squarespace.com/hc/en-us/sections/115003554887-Discounts-and-promotions"
+}

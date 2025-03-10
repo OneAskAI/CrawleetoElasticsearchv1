@@ -1,0 +1,9 @@
+{
+	"id": "jaIFbjo4sQqsbPK",
+	"json": "{\"id\":\"jaIFbjo4sQqsbPK\",\"url\":\"https://support.squarespace.com/hc/en-us/sections/360012353392-Email-Campaigns-billing\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/sections/360012353392-Email-Campaigns-billing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581580553,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/sections/360012353392-Email-Campaigns-billing",
+	"url": "https://support.squarespace.com/hc/en-us/sections/360012353392-Email-Campaigns-billing"
+}

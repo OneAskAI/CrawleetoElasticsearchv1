@@ -1,0 +1,9 @@
+{
+	"id": "YuGOZv027c9w2tN",
+	"json": "{\"id\":\"YuGOZv027c9w2tN\",\"url\":\"https://support.squarespace.com/hc/en-us/sections/360011122491-Version-7-0-styles\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/sections/360011122491-Version-7-0-styles\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581600750,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/sections/360011122491-Version-7-0-styles",
+	"url": "https://support.squarespace.com/hc/en-us/sections/360011122491-Version-7-0-styles"
+}

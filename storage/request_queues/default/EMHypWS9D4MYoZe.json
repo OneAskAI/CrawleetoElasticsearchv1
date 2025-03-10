@@ -1,0 +1,9 @@
+{
+	"id": "EMHypWS9D4MYoZe",
+	"json": "{\"id\":\"EMHypWS9D4MYoZe\",\"url\":\"https://support.squarespace.com/hc/en-us/sections/200809987-Squarespace-domain-basics\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/sections/200809987-Squarespace-domain-basics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581566550,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/sections/200809987-Squarespace-domain-basics",
+	"url": "https://support.squarespace.com/hc/en-us/sections/200809987-Squarespace-domain-basics"
+}

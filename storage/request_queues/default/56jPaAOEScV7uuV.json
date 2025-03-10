@@ -1,0 +1,9 @@
+{
+	"id": "56jPaAOEScV7uuV",
+	"json": "{\"id\":\"56jPaAOEScV7uuV\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/217552768-Purchase-funnel-analytics\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/217552768-Purchase-funnel-analytics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581603852,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/217552768-Purchase-funnel-analytics",
+	"url": "https://support.squarespace.com/hc/en-us/articles/217552768-Purchase-funnel-analytics"
+}

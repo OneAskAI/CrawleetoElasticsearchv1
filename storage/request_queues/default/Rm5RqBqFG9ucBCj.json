@@ -1,0 +1,9 @@
+{
+	"id": "Rm5RqBqFG9ucBCj",
+	"json": "{\"id\":\"Rm5RqBqFG9ucBCj\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/360002077567-Sending-automated-campaigns\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/360002077567-Sending-automated-campaigns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581580545,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/360002077567-Sending-automated-campaigns",
+	"url": "https://support.squarespace.com/hc/en-us/articles/360002077567-Sending-automated-campaigns"
+}

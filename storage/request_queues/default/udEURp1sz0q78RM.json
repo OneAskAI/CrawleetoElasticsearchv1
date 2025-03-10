@@ -1,0 +1,9 @@
+{
+	"id": "udEURp1sz0q78RM",
+	"json": "{\"id\":\"udEURp1sz0q78RM\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/360041087192-Email-Campaigns-subscriber-verification\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/360041087192-Email-Campaigns-subscriber-verification\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581580527,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/360041087192-Email-Campaigns-subscriber-verification",
+	"url": "https://support.squarespace.com/hc/en-us/articles/360041087192-Email-Campaigns-subscriber-verification"
+}

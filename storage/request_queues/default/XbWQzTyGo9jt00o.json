@@ -1,0 +1,9 @@
+{
+	"id": "XbWQzTyGo9jt00o",
+	"json": "{\"id\":\"XbWQzTyGo9jt00o\",\"url\":\"https://support.squarespace.com/hc/articles/205809798\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/205809798-Video-Series-Getting-Started-with-Squarespace\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/205809798\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:40:09.221Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/205809798",
+	"url": "https://support.squarespace.com/hc/articles/205809798"
+}

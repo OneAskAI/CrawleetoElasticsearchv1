@@ -1,0 +1,9 @@
+{
+	"id": "dkGKmFocgF6Kzja",
+	"json": "{\"id\":\"dkGKmFocgF6Kzja\",\"url\":\"https://support.squarespace.com/hc/en-us/sections/200825338-Advanced-image-customizations\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/sections/200825338-Advanced-image-customizations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581599768,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/sections/200825338-Advanced-image-customizations",
+	"url": "https://support.squarespace.com/hc/en-us/sections/200825338-Advanced-image-customizations"
+}

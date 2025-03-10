@@ -1,0 +1,9 @@
+{
+	"id": "gtqvR3M6R2Vgcx2",
+	"json": "{\"id\":\"gtqvR3M6R2Vgcx2\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/205815548-Supported-browsers\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/205815548-Supported-browsers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581600449,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/205815548-Supported-browsers",
+	"url": "https://support.squarespace.com/hc/en-us/articles/205815548-Supported-browsers"
+}

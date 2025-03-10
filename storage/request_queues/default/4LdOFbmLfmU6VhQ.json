@@ -1,0 +1,9 @@
+{
+	"id": "4LdOFbmLfmU6VhQ",
+	"json": "{\"id\":\"4LdOFbmLfmU6VhQ\",\"url\":\"https://support.squarespace.com/hc/articles/360000177507\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/360000177507-Changing-your-account-and-site-language\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/360000177507\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"locator.evaluateAll: Target page, context or browser has been closed\\n    at getCleanText (<anonymous>:16:35)\\n    at async PlaywrightCrawler.requestHandler (/Users/fermi/Desktop/oneaskaitest/node.js:96:30)\\n    at async wrap (/Users/fermi/Desktop/oneaskaitest/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1741581648575,
+	"retryCount": 1,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/360000177507",
+	"url": "https://support.squarespace.com/hc/articles/360000177507"
+}

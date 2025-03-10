@@ -1,0 +1,9 @@
+{
+	"id": "2Lc79IKDXoQiRAr",
+	"json": "{\"id\":\"2Lc79IKDXoQiRAr\",\"url\":\"https://support.squarespace.com/hc/articles/360047047751\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/articles/360047047751-Video-Series-Introducing-Commerce\",\"uniqueKey\":\"https://support.squarespace.com/hc/articles/360047047751\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:40:12.644Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/articles/360047047751",
+	"url": "https://support.squarespace.com/hc/articles/360047047751"
+}

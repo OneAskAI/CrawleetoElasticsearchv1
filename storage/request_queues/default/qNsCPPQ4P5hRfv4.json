@@ -1,0 +1,9 @@
+{
+	"id": "qNsCPPQ4P5hRfv4",
+	"json": "{\"id\":\"qNsCPPQ4P5hRfv4\",\"url\":\"https://support.squarespace.com/hc/en-us\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-03-10T04:39:10.764Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us",
+	"url": "https://support.squarespace.com/hc/en-us"
+}

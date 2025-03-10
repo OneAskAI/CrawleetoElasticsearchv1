@@ -1,0 +1,9 @@
+{
+	"id": "UXWSovaAay43v2H",
+	"json": "{\"id\":\"UXWSovaAay43v2H\",\"url\":\"https://support.squarespace.com/hc/en-us/categories/200290497-Domains\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/categories/200290497-Domains\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581567380,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/categories/200290497-Domains",
+	"url": "https://support.squarespace.com/hc/en-us/categories/200290497-Domains"
+}

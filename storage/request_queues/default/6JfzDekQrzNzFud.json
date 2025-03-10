@@ -1,0 +1,9 @@
+{
+	"id": "6JfzDekQrzNzFud",
+	"json": "{\"id\":\"6JfzDekQrzNzFud\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/206544737-Taking-a-screenshot\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/206544737-Taking-a-screenshot\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581600456,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/206544737-Taking-a-screenshot",
+	"url": "https://support.squarespace.com/hc/en-us/articles/206544737-Taking-a-screenshot"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "hk8xTTs9sHkq3Yv",
+	"json": "{\"id\":\"hk8xTTs9sHkq3Yv\",\"url\":\"https://support.squarespace.com/hc/en-us/sections/200825098-Taxes-and-accounting\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/sections/200825098-Taxes-and-accounting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581574384,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/sections/200825098-Taxes-and-accounting",
+	"url": "https://support.squarespace.com/hc/en-us/sections/200825098-Taxes-and-accounting"
+}

@@ -1,9 +1,0 @@
-{
-	"id": "avLOkVy48H6Qjvt",
-	"json": "{\"id\":\"avLOkVy48H6Qjvt\",\"url\":\"https://www.ntu.edu.tw/about/CIS.html\",\"loadedUrl\":\"https://www.ntu.edu.tw/about/CIS.html\",\"uniqueKey\":\"https://www.ntu.edu.tw/about/CIS.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-08T23:57:33.038Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.ntu.edu.tw/about/CIS.html",
-	"url": "https://www.ntu.edu.tw/about/CIS.html"
-}

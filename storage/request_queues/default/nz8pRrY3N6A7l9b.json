@@ -1,0 +1,9 @@
+{
+	"id": "nz8pRrY3N6A7l9b",
+	"json": "{\"id\":\"nz8pRrY3N6A7l9b\",\"url\":\"https://support.squarespace.com/hc/en-us/requests/new?ticket_form_id=23533491876749\",\"loadedUrl\":\"https://support.squarespace.com/hc/en-us/requests/new?ticket_form_id=23533491876749\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/requests/new?ticket_form_id=23533491876749\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-10T04:40:19.942Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/requests/new?ticket_form_id=23533491876749",
+	"url": "https://support.squarespace.com/hc/en-us/requests/new?ticket_form_id=23533491876749"
+}

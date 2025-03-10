@@ -1,0 +1,9 @@
+{
+	"id": "BBfHJ0RxsOHx2bn",
+	"json": "{\"id\":\"BBfHJ0RxsOHx2bn\",\"url\":\"https://support.squarespace.com/hc/en-us/articles/205816048-Language-and-region-settings\",\"uniqueKey\":\"https://support.squarespace.com/hc/en-us/articles/205816048-Language-and-region-settings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741581561122,
+	"retryCount": 0,
+	"uniqueKey": "https://support.squarespace.com/hc/en-us/articles/205816048-Language-and-region-settings",
+	"url": "https://support.squarespace.com/hc/en-us/articles/205816048-Language-and-region-settings"
+}
